@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyTemplate.cs](./CS/WebSite/App_Code/MyTemplate.cs) (VB: [MyTemplate.vb](./VB/WebSite/App_Code/MyTemplate.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to implement a single cell editing feature in the ASPxTreeList
 
 
