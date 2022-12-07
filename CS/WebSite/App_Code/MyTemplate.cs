@@ -1,7 +1,7 @@
 using System;
 using System.Web.UI;
 using DevExpress.Web.ASPxTreeList;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
   
 public class MyTemplate : ITemplate
 {

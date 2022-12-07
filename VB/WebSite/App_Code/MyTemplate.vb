@@ -2,7 +2,7 @@ Imports Microsoft.VisualBasic
 Imports System
 Imports System.Web.UI
 Imports DevExpress.Web.ASPxTreeList
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Public Class MyTemplate
 	Implements ITemplate
